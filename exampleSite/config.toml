@@ -1,4 +1,4 @@
-baseURL = "https://trynetlify.com"
+baseURL = ""
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
