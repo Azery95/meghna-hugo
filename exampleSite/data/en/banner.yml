@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: images/blog/blog-post-3.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
